@@ -56,10 +56,10 @@ Whenever I push changes to this repository, the live site updates automatically.
 ## 📸 Screenshots
 
 <!-- Full Portfolio -->
-<img src="images/portfolio-screenshot.png" alt="Sneha Garg Portfolio - Full Page Screenshot" width="100%">
+<img src="images/portfolio-screenshot.jpg" alt="Sneha Garg Portfolio - Full Page Screenshot" width="100%">
 
 <!-- Fun Facts Section -->
-<img src="images/fun-facts-screenshot.png" alt="Sneha Garg Portfolio - Fun Facts Section Screenshot" width="100%">
+<img src="images/fun-facts-screenshot.jpg" alt="Sneha Garg Portfolio - Fun Facts Section Screenshot" width="100%">
 
 ---
 
